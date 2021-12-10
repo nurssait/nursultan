@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e25730b7-ad98-48d4-8452-04758641f03c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21HRuvBFH7z00cW9tz3cD8r6swG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\nur sait" />
+      <recent name="C:\Users\user\Desktop\sait\index" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e25730b7-ad98-48d4-8452-04758641f03c" name="Default Changelist" comment="" />
+      <created>1637596253020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637596253020</updated>
+      <workItem from="1637596254874" duration="2317000" />
+      <workItem from="1637771219944" duration="5207000" />
+      <workItem from="1637855260210" duration="881000" />
+      <workItem from="1637939814032" duration="2946000" />
+      <workItem from="1637980112661" duration="3327000" />
+      <workItem from="1637984006007" duration="1110000" />
+      <workItem from="1637984859562" duration="7106000" />
+      <workItem from="1638018802089" duration="5286000" />
+      <workItem from="1638029766051" duration="538000" />
+      <workItem from="1638030319680" duration="6228000" />
+      <workItem from="1638071399193" duration="6283000" />
+      <workItem from="1638289589442" duration="5188000" />
+      <workItem from="1638374929417" duration="5085000" />
+      <workItem from="1638446635437" duration="2227000" />
+      <workItem from="1638461934487" duration="3441000" />
+      <workItem from="1638504389077" duration="4861000" />
+      <workItem from="1638529890799" duration="766000" />
+      <workItem from="1638536338727" duration="242000" />
+      <workItem from="1638799750536" duration="1936000" />
+      <workItem from="1638966135929" duration="1904000" />
+      <workItem from="1639062739092" duration="12574000" />
+      <workItem from="1639120679553" duration="375000" />
+      <workItem from="1639123631233" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

@@ -1,0 +1,68 @@
+.hero{
+  height: 245px;
+
+  &__video{
+    display: flex;
+
+    justify-content: center;
+    column-gap: 0;
+    align-items: center;
+
+
+
+
+
+    &-button{
+      text-align: center;
+      letter-spacing: -0.500211px;
+
+      color: #19191B;
+      border: #F7F7FB;
+      border-radius: 10px 0 0 10px;
+      background: #F7F7FB;
+      padding: 17px 58px 17px 58px;
+      transition: all .5s;
+      &:hover{
+        background-color: #5454D4;
+        color: #FFFFFF;
+      }
+
+    }
+    &-icon{
+
+      text-align: center;
+      letter-spacing: -0.500211px;
+      color: #19191B;
+      border: #F7F7FB;
+      background: #F7F7FB;
+      border-radius: 0  10px 10px 0 ;
+      padding: 17px 58px 17px 58px;
+      transition: all .5s;
+      &:hover{
+        background-color: #5454D4;
+        color: #FFFFFF;
+      }
+
+
+
+    }
+  }
+
+&__content{
+  display: flex;
+  justify-content: space-between;
+
+
+  &-title{
+    font-family: DM Sans , sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 70px;
+    letter-spacing: -1.87579px;
+    color: #19191B;
+   
+    width: 503px;
+  }
+}
+}

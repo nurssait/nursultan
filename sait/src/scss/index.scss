@@ -1,0 +1,44 @@
+.index{
+
+&__video{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 476px;
+  row-gap: 28px;
+
+  &-title{
+    font-family: DM Sans , sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 57px;
+    letter-spacing: -1.56316px;
+    color: #19191B;
+  }
+  &-text{
+    font-family: Mulish , sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: -0.625263px;
+    color: #696871;
+    width: 433px;
+  }
+  &-a{
+
+    font-family: DM Sans , sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 22px;
+    letter-spacing: -0.531474px;
+    color: #5454D4;
+
+    text-decoration: none;
+
+  }
+
+}
+}
